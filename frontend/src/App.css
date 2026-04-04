@@ -1,0 +1,37 @@
+/* Custom scrollbar */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #0a0a0f;
+}
+
+::-webkit-scrollbar-thumb {
+    background: linear-gradient(180deg, #00f5ff, #0066ff);
+    border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(180deg, #0066ff, #00f5ff);
+}
+
+/* Selection color */
+::selection {
+    background-color: rgba(0, 245, 255, 0.3);
+    color: #ffffff;
+}
+
+/* Smooth transitions for interactive elements */
+button, a, input, textarea {
+    transition: all 0.3s ease;
+}
+
+/* Focus visible for accessibility */
+button:focus-visible,
+a:focus-visible,
+input:focus-visible,
+textarea:focus-visible {
+    outline: 2px solid #00f5ff;
+    outline-offset: 2px;
+}
