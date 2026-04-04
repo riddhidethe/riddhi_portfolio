@@ -1,12 +1,12 @@
 // Mock data for portfolio
 
 export const personalInfo = {
-  name: "Riddhi Dilip Dethe",
-  email: "riddhi.dethe@mitaoe.ac.in",
+  name: "Riddhi Dethe",
+  email: "riddhidethe4@gmail.com",
   phone: "+91-9373247185",
   linkedin: "https://www.linkedin.com/in/riddhidethe",
   github: "https://github.com/riddhidethe",
-  role: "Full-Stack Developer | AI/ML Engineer",
+  role: "Software Developer | Full-Stack Developer | AI/ML Engineer",
   tagline: "Building intelligent solutions with code and data",
   bio: "Final year Computer Engineering student at MIT Academy of Engineering, Pune with a CGPA of 9.35/10. Passionate about creating impactful tech solutions through full-stack development and AI/ML. Currently working as a Software Engineer Intern at Amdocs, with hands-on experience across multiple domains including web development, data analytics, and machine learning.",
   location: "Pune, Maharashtra, India",
