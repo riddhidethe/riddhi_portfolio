@@ -281,7 +281,7 @@ export const achievements = [
   {
     id: 4,
     title: "Published Researcher",
-    description: "Published research paper in IEEE conference proceedings",
+    description: "Published research paper in IEEE conference proceedings in 2024",
     year: "2024",
     icon: "book-open"
   }
