@@ -249,7 +249,7 @@ export const publications = [
     title: "Transformer-Based Framework for Interpretable and Scalable Genomic Sequence Alignment",
     authors: "Riddhi Dilip Dethe et al.",
     venue: "IEEE Conference",
-    year: "2024",
+    year: "2025",
     doi: "https://ieeexplore.ieee.org/document/11187519",
     abstract: "This paper presents a novel transformer-based framework for genomic sequence alignment that provides interpretable and scalable solutions for computational biology applications.",
     category: "AI/ML, Bioinformatics"
@@ -281,8 +281,8 @@ export const achievements = [
   {
     id: 4,
     title: "Published Researcher",
-    description: "Published research paper in IEEE conference proceedings in 2024",
-    year: "2024",
+    description: "Published research paper in IEEE conference proceedings in 2025",
+    year: "2025",
     icon: "book-open"
   }
 ];
