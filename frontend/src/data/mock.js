@@ -8,7 +8,7 @@ export const personalInfo = {
   github: "https://github.com/riddhidethe",
   role: "Software Developer | Full-Stack Developer | AI/ML Engineer",
   tagline: "Building intelligent solutions with code and data",
-  bio: "Final year Computer Engineering student at MIT Academy of Engineering, Pune with a CGPA of 9.35/10. Passionate about creating impactful tech solutions through full-stack development and AI/ML. Currently working as a Software Engineer Intern at Amdocs, with hands-on experience across multiple domains including web development, data analytics, and machine learning.",
+  bio: "I'm someone who enjoys building things that work smart, not just look good. Whether it's a full-stack platform, an AI-powered tool, or a data-driven dashboard, I like diving deep into problems and engineering solutions that are both practical and impactful. My experience across multiple internships has shaped me into a developer who values clean architecture, automation, and meaningful innovation.",
   location: "Pune, Maharashtra, India",
   education: {
     degree: "B.Tech - Computer Engineering",
@@ -260,7 +260,7 @@ export const achievements = [
   {
     id: 1,
     title: "Datathon'25 Winner",
-    description: "Won first place in Datathon 2025 competition",
+    description: "Winner of Datathon 2025",
     year: "2025",
     icon: "trophy"
   },

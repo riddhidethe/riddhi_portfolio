@@ -35,7 +35,7 @@ const ProjectCard = ({ project, index }) => {
       ref={ref}
       className={`group bg-gradient-to-br from-[#1a1a2e]/80 to-[#0f0f1a]/80 backdrop-blur-md border border-cyan-500/30 rounded-xl overflow-hidden transition-all duration-500 hover:border-cyan-400/50 hover:shadow-xl hover:shadow-cyan-500/20 ${
         isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'
-      } ${project.featured ? 'md:col-span-2' : ''}`}
+      }`}
       style={{ transitionDelay: `${index * 100}ms` }}
     >
       {/* Project Image/Icon Area */}
@@ -175,7 +175,7 @@ const Projects = () => {
         </div>
 
         {/* Projects Grid */}
-        <div className="grid md:grid-cols-2 gap-8">
+        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
           {filteredProjects.map((project, index) => (
             <ProjectCard key={project.id} project={project} index={index} />
           ))}
