@@ -66,7 +66,7 @@ const AchievementCard = ({ achievement, index }) => {
 
 const Achievements = () => {
   return (
-    <section className="py-20 px-6 bg-gradient-to-b from-[#0f0f1a] to-[#0a0a0f] relative overflow-hidden">
+    <section id="achievements" className="py-20 px-6 bg-gradient-to-b from-[#0f0f1a] to-[#0a0a0f] relative overflow-hidden">
       {/* Background effect */}
       <div className="absolute top-1/4 left-1/2 w-96 h-96 bg-blue-500/5 rounded-full blur-3xl" />
 

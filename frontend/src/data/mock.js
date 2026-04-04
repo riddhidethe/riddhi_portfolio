@@ -8,7 +8,7 @@ export const personalInfo = {
   github: "https://github.com/riddhidethe",
   role: "Software Developer | Full-Stack Developer | AI/ML Engineer",
   tagline: "Building intelligent solutions with code and data",
-  bio: "I'm someone who enjoys building things that work smart, not just look good. Whether it's a full-stack platform, an AI-powered tool, or a data-driven dashboard, I like diving deep into problems and engineering solutions that are both practical and impactful. My experience across multiple internships has shaped me into a developer who values clean architecture, automation, and meaningful innovation.",
+  bio: "Hey folks! I'm Riddhi Dethe, and welcome to my corner of the internet. I'm someone who enjoys building things that work smart, not just look good. Whether it's a full-stack platform, an AI-powered tool, or a data-driven dashboard, I like diving deep into problems and engineering solutions that are both practical and impactful. My journey so far? Four amazing internships where I've worn many hats—from automating databases at Amdocs to crafting AI chatbots and building code testing platforms. Each experience has shaped me into a developer who values clean architecture, automation, and meaningful innovation. Stick around, and let me walk you through what I've been working on!",
   location: "Pune, Maharashtra, India",
   education: {
     degree: "B.Tech - Computer Engineering",
