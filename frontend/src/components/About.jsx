@@ -91,10 +91,12 @@ const About = () => {
           <div className="flex justify-center mb-12">
             <div className="relative group">
               <div className="absolute -inset-1 bg-gradient-to-r from-cyan-500 to-blue-500 rounded-2xl blur opacity-75 group-hover:opacity-100 transition duration-300" />
-              <div className="relative w-48 h-48 bg-gradient-to-br from-cyan-500/20 to-blue-500/20 rounded-2xl border border-cyan-500/30 flex items-center justify-center overflow-hidden">
-                <div className="text-7xl font-bold text-cyan-400/50 font-mono">
-                  {personalInfo.name.split(' ').map(n => n[0]).join('')}
-                </div>
+              <div className="relative w-48 h-48 bg-gradient-to-br from-cyan-500/20 to-blue-500/20 rounded-2xl border border-cyan-500/30 overflow-hidden">
+                <img 
+                  src="/profile.jpg" 
+                  alt="Riddhi Dethe" 
+                  className="w-full h-full object-cover"
+                />
               </div>
             </div>
           </div>
